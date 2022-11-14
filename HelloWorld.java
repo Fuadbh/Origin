@@ -2,6 +2,6 @@ public class HelloWorld
 {
     public static void main(String[] args) 
     {
-        System.out.println("Sadia, Big fan!");
+        System.out.println("Sadia, Medium Fan!");
     }
 }
